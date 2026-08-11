@@ -1,35 +1,22 @@
-### Hello World 👋 It's [Brandon Carroll!](http://brandonjcarroll.com)
+# Brandon Carroll
 
-<br/>
+**Senior Technical Product Marketing Manager at AWS · CCIE Security #23837**
 
-<a href="https://twitter.com/brandoncarroll"><img align="left" alt="Brandon Carroll | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/brandoncarroll"><img align="left" alt="Brandon Carroll" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.pluralsight.com/authors/brandon-carroll"><img align="left" alt="Brandon Carroll" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pluralsight.svg" /></a>
-<br/>
+I build the demos, labs, and curriculum that make technical field organizations self-sufficient — my job is making hard technology teachable. Author of six networking and security books, most recently *Securing the AWS Cloud* (Wiley, 2025), and 21 Pluralsight courses. These days I build with agents daily: MCP servers, Claude Code skills, and pipelines that turn repeatable workflows into working tools.
 
-Hi, I'm Brandon Carroll 🙌, a Senior Developer Advocate at AWS and a Cloud Infrastructure Security expert. My passion is helping builders secure their infrastructure in simple, practical ways. I also enjoy creating educational content for cloud security and networking enthusiasts, whether you're a beginner or an expert!
+**Selected work → [work.brandonjcarroll.com](https://work.brandonjcarroll.com)**
 
-**A bit about me:**
+## Projects
 
-- 🔭 I’m currently working as a Senior Developer Advocate at AWS.
-- 🌱 I’m always learning new ways to secure infrastructure in the cloud.
-- 👯 I love engaging with the cloud and security community.
-- 💬 Ask me about anything AWS Security-related! 
-- 📫 How to reach me: Check out any of the platforms linked above!
-- 📝 [Blog](http://brandonjcarroll.com) | [Pluralsight Courses](https://www.pluralsight.com/authors/brandon-carroll)
+- **[Bit & Grain](https://bitandgrain.app)** — production SaaS for skilled-trades businesses, built and run with agentic tooling from schema through deployment. Live product; private repo.
+- **[docwalk](https://github.com/8carroll/docwalk)** — record a SaaS walkthrough, get step-by-step documentation. Chrome extension + Claude Code skill.
+- **[blog-factory-skill](https://github.com/8carroll/blog-factory-skill)** — agent-skill pipeline: SEO research → long-form draft → human-tone pass → cover image → publish.
+- **[gsd-kanban](https://github.com/8carroll/gsd-kanban)** — dependency-aware kanban that computes which project phases can safely run in parallel. Zero-dep, MIT.
+- **[ynab-mcp](https://github.com/8carroll/ynab-mcp)** — MCP server for YNAB: budgets, transactions, and categories from Claude.
+- **[plaid-mcp](https://github.com/8carroll/plaid-mcp)** — read-only MCP server for Plaid: accounts, transactions, holdings.
 
-**Community Involvement:**
+## Elsewhere
 
-- I work with AWS Community Builders and Hero's
-- Former Cisco CHampion
-- TechFieldDay Delegate
-- Contributor to various tech publications including TechRepublic and Tech Target
+[LinkedIn](https://www.linkedin.com/in/brandoncarroll/) · [Pluralsight](https://www.pluralsight.com/authors/brandon-carroll) · [Blog](https://brandonjcarroll.com)
 
-**Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandoncarroll&show_icons=true&hide_border=true)
-
+AWS Community Builders & Heroes programs · former Cisco Champion · Tech Field Day delegate · bylines at TechRepublic and TechTarget
